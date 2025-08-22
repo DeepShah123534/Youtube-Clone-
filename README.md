@@ -46,6 +46,8 @@ Database & Auth: Firebase Auth, Firestore, Firebase Functions
 
 Containerization: Docker (multi-stage builds)
 
+
+
 🧪 Workflow
 
 User logs in with Google
